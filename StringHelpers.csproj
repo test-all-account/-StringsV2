@@ -42,7 +42,6 @@
     <Reference Include="Microsoft.CSharp" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Tests\HiddenTest.cs" />
     <Compile Include="Tests\PublicTest.cs" />
     <Compile Include="StringHelpers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
